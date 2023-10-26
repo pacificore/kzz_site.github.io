@@ -551,8 +551,8 @@ const dataSets = {
         {title: 'Избежать ранения (Серебрян1к)', image: '/mates/23.png'},
     ],
     coin: [
-        {title: 'Орёл',  image: '/coins/russia-100-rubles-1993-ob.png'},
-        {title: 'Решка', image: '/coins/russia-100-rubles-1993-rev.png'},
+        {title: '1',  image: '/coins/russia-100-rubles-1993-ob.png'},
+        {title: '2', image: '/coins/russia-100-rubles-1993-rev.png'},
         {title: 'Орёл',  image: '/coins/russia-100-rubles-1993-ob.png'},
         {title: 'Решка', image: '/coins/russia-100-rubles-1993-rev.png'},
         {title: 'Орёл',  image: '/coins/russia-100-rubles-1993-ob.png'},
