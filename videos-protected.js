@@ -32,5 +32,5 @@ const videosProtected = [
     ['videos/ozon.mp4', 0, 31],
     ['videos/dmca/ozon.mp4', 0, 31],
     ['videos/dmca/Tesak.mp4', 0, 31],
-    ['videos/dmca/ebatoriya.mp4', 7, 35],
+    ['videos/dmca/ebatoriya.mp4', 3, 31],
 ];
