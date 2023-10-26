@@ -17,7 +17,6 @@
  * ]),
  */
 const videosFree = [
-
     ['videos/streamers/liz0N - Пятница (песенка про Minecraft).mp4', 31, 32],
     ['videos/streamers/faker.mp4', 0, 24],
     ['videos/streamers/grafon.mp4', 0, 29],
@@ -30,8 +29,6 @@ const videosFree = [
     ['videos/streamers/usach02.mp4', 0, 30],
     ['videos/streamers/Praden01.mp4', 0, 24],
     ['videos/streamers/namvseyasno-shrekophone.mp4', 0, 24],
-
-
+    ['videos/ozon.mp4', 0, 28],
     ['videos/кис-кис кис-кис, барака Обама, я Гордон ты Гордон, кис-кис кис-кис.mp4', 0, 28],
-
 ];
