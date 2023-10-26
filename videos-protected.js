@@ -29,4 +29,5 @@ const videosProtected = [
     ['videos/[Re-upload] [1080p] HONK HONK.mp4', 0, 26],
     ['videos/dmca/gonshik.mp4', 0, 31],
     ['videos/dmca/korova.mp4', 0, 25],
+    ['videos/ozon.mp4', 0, 31],
 ];
