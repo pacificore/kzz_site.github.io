@@ -39,5 +39,6 @@ const videosProtected = [
     ['videos/dmca/pele.mp4', 0, 27],
     ['videos/dmca/edition.mp4', 0, 30],
     ['videos/dmca/summer.mp4', 0, 31],
+    ['videos/dmca/doka.mp4', 10, 42],
     
 ];
