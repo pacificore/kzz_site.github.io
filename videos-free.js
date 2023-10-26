@@ -26,7 +26,7 @@ const videosFree = [
     ['videos/tyler.mp4', 0, 20],
     ['videos/napo.mp4', 0, 21],
     ['videos/vanomas.mp4', 0, 26],
-    ['videos/shaman.mp4', 45, 80],
+    ['videos/shaman.mp4', 45, 70],
     ['videos/sus.mp4', 0, 26],
     ['videos/dmca/ozon.mp4', 0, 31],
     ['videos/dmca/Tesak.mp4', 0, 31],
