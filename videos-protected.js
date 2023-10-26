@@ -30,4 +30,6 @@ const videosProtected = [
     ['videos/dmca/gonshik.mp4', 0, 31],
     ['videos/dmca/korova.mp4', 0, 25],
     ['videos/ozon.mp4', 0, 31],
+    ['videos/dmca/ozon.mp4', 0, 31],
+    ['videos/dmca/Tesak.mp4', 0, 31],
 ];
