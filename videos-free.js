@@ -55,5 +55,8 @@ const videosFree = [
     ['videos/mot.mp4', 5, 38],
     ['videos/lx.mp4', 0, 38],
     ['videos/gena_2.mp4', 0, 30],
+    ['videos/dmca/obeme.mp4', 0, 27],
+    ['videos/dmca/The less I know the better & Sexy back (Meme edit).mp4', 0, 34],
+    ['videos/dmca/pivko.mp4', 0, 27],
     
 ];
