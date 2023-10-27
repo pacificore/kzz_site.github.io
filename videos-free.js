@@ -37,7 +37,7 @@ const videosFree = [
     ['videos/dmca/pele.mp4', 0, 27],
     ['videos/dmca/edition.mp4', 0, 30],
     ['videos/dmca/summer.mp4', 0, 31],
-    ['videos/dmca/doka.mp4', 10, 42],
+    ['videos/dmca/doka.mp4', 10, 45],
     ['videos/gena.mp4', 0, 38], 
     ['videos/ozon_w.mp4', 10, 38], 
     ['videos/kantent.mp4', 0, 28],
