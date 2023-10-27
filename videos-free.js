@@ -50,6 +50,10 @@ const videosFree = [
     ['videos/rus.mp4', 0, 26],
     ['videos/ot_vint.mp4', 0, 26],
     ['videos/put.mp4', 30, 55],
-    ['videos/cino.mp4', 0, 17],
+    ['videos/cingr.mp4', 0, 20],
+    ['videos/ldum.mp4', 0, 34],
+    ['videos/mot.mp4', 5, 38],
+    ['videos/lx.mp4', 0, 38],
+    ['videos/gena_2.mp4', 0, 30],
     
 ];
