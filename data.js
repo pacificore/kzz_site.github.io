@@ -559,11 +559,12 @@ const dataSets = {
         {title: '6', image: '/coins/russia-100-rubles-1993-rev.png'},
     ],
     streamers: [
-        {title: 'T', image: '/streamers/liz0n.png'},
-        {title: 'A', image: '/streamers/NAMVSEYASNO.png'},
-        {title: 'V', image: '/streamers/Praden.png'},
-        {title: 'G', image: '/streamers/roadhouse.png'},
-        {title: 'D', image: '/streamers/SgtGrafoyni.png'},
+        {title: 'Андрей', image: '/streamers/liz0n.png'},
+        {title: 'Валера', image: '/streamers/NAMVSEYASNO.png'},
+        {title: 'Герман', image: '/streamers/Praden.png'},
+        {title: 'Давид', image: '/streamers/roadhouse.png'},
+        {title: 'Тимур', image: '/streamers/SgtGrafoyni.png'},
+        {title: 'Ловушка Джокера', image: '/streamers/SgtGrafoyni.png'},
     ],
     andrew: [
         {title: 'A Plague Tale: Innocence'},
