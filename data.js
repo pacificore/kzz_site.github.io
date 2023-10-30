@@ -564,7 +564,16 @@ const dataSets = {
         {title: 'V', image: '/streamers/Praden.png'},
         {title: 'G', image: '/streamers/roadhouse.png'},
         {title: 'D', image: '/streamers/SgtGrafoyni.png'},
-        {title: 'usachman', image: '/streamers/usachman.png'},
+    ],
+    andrew: [
+        {title: 'A Plague Tale: Innocence'},
+        {title: 'Lego Star Wars Skywalker Saga'},
+        {title: 'Darksiders Genesis', image: '/streamers/Praden.png'},
+        {title: 'The Long Dark', image: '/streamers/roadhouse.png'},
+        {title: 'BLACKTAIL', image: '/streamers/SgtGrafoyni.png'},
+        {title: 'Spirit of the North', image: '/streamers/SgtGrafoyni.png'},
+        {title: 'Necromunda: Hired Gun', image: '/streamers/SgtGrafoyni.png'},
+        {title: 'FreshWomen - Season 1', image: '/streamers/SgtGrafoyni.png'},
     ],
     pvp: [
         'Brawlhalla',
