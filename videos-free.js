@@ -32,7 +32,7 @@ const videosFree = [
     ['videos/dmca/Tesak.mp4', 0, 31],
     ['videos/dmca/ebatoriya.mp4', 3, 31],
     ['videos/dmca/vor.mp4', 3, 33],
-    ['videos/dmca/gorin.mp4', 5, 35],
+    ['videos/gorin_2.mp4', 0, 32],
     ['videos/dmca/bogdan.mp4', 0, 31],
     ['videos/dmca/pele.mp4', 0, 27],
     ['videos/dmca/edition.mp4', 0, 30],
