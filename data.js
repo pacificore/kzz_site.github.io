@@ -633,6 +633,7 @@ const dataSets = {
         {title: 'FreshWomen - Season 1'},
         {title: 'Mr.President!'},
         {title: 'Hentai vs Furries'},
+        {title: 'Сталкер Тень Вонючки'},
     ],
     pvp: [
         'Brawlhalla',
